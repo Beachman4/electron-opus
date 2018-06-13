@@ -15,7 +15,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "install": "bash ./node_modules/.bin/elinst"
+    "install": "bash ../.bin/elinst"
   },
   "//": "Platform limitations is due to lack of config.h files. See README.md for more information.",
   "os": [
